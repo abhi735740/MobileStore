@@ -1,0 +1,92 @@
+.form{
+  text-align: center;
+  margin: 0 auto;
+  width: 55%;
+}
+
+.action {
+  margin-top: 2px;
+}
+
+.input{
+  width: 40%;
+  padding-left: 1%;
+  margin-top: 5px;
+  border-radius: 3px;
+  border-width: 2px;
+  border-color: gray;
+  height: 35px; margin-bottom:  10px;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;  
+  width: 40%;
+  border-radius: 3px;
+}
+
+.t {
+  margin: 0 auto;
+  width: 70%;
+}
+
+.nav-ul li{
+  display: inline-block;
+  padding: 10px;
+  color: aliceblue;
+  text-decoration: solid;
+  margin-top: 4px;
+  border-radius: 8px;
+  text-decoration:double;
+}
+
+.nav-ul{
+  text-align: right;
+  text-decoration: none;
+  padding: 10px;
+  background-color: gray;
+  margin-top: auto;
+}
+
+.nav-ul li :hover{
+  background-color: skyblue;
+  color: black;
+  border-radius: 10px;
+}
+
+.nav-right{
+  text-align: right;
+}
+.nav-ul a{
+  color: white;
+  text-decoration: solid;
+}
+
+.search {
+  margin-bottom: 10px;
+  border-radius: 4px;
+  
+}
+.search-Button
+{
+  margin-left: 20px;
+  border-radius: 4px;
+  background-color: #4CAF50;
+}
+
+.dropdown
+{
+  border-radius: 5px;
+  background-color: wheat;
+  text-align: center;
+  font-size: 15px;
+}
+

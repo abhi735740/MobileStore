@@ -1,0 +1,256 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Satheesh",
+      "email": "Sat@mail.com",
+      "password": "Southstreet"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "email": "john@mail.com",
+      "password": "Northstreet"
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "email": "robert@mail.com",
+      "password": "Eaststreet"
+    },
+    {
+      "id": 4,
+      "name": "Mani",
+      "email": "mani@mail.com",
+      "password": "Weststreet"
+    },
+    {
+      "name": "Abhishek",
+      "Password": "1234",
+      "email": "abhi@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "test",
+      "password": "0987",
+      "email": "testing@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "abhishek",
+      "Password": "4567",
+      "email": "opiu@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "umesh",
+      "Password": "qwerty",
+      "email": "umesh@gmail.com",
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "name": "abhishek",
+      "Password": "12345",
+      "email": "abhi@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "qwerty",
+      "Password": "qwerty",
+      "email": "qwer@gmail.com",
+      "id": 13
+    }
+  ],
+  "MobileData": [
+    {
+      "id": 1,
+      "brand": "samsung",
+      "price": "12999",
+      "color": "red",
+      "screenSize": "5 inch",
+      "camera": "12Px",
+      "battery": "5000MAH",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "brand": "samsung",
+      "price": "15999",
+      "color": "red",
+      "screenSize": "6 inch",
+      "camera": "32Px",
+      "battery": "5000MAH",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "brand": "samsung",
+      "price": "22999",
+      "color": "white",
+      "screenSize": "6.5 inch",
+      "camera": "22Px",
+      "battery": "5500MAH",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "brand": "Redmi",
+      "price": "12999",
+      "color": "red",
+      "screenSize": "5 inch",
+      "camera": "12Px",
+      "battery": "5000MAH",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "brand": "Redmi",
+      "price": "32999",
+      "color": "red",
+      "screenSize": "6 inch",
+      "camera": "42Px",
+      "battery": "5000MAH",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "brand": "Redmi",
+      "price": "22999",
+      "color": "Yellow",
+      "screenSize": "6 inch",
+      "camera": "52Px",
+      "battery": "5000MAH",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "brand": "OPPO",
+      "price": "12999",
+      "color": "red",
+      "screenSize": "5 inch",
+      "camera": "42Px",
+      "battery": "5000MAH",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "brand": "OPPO",
+      "price": "22999",
+      "color": "red",
+      "screenSize": "6 inch",
+      "camera": "12Px",
+      "battery": "5000MAH",
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "brand": "OPPO",
+      "price": "45999",
+      "color": "Pink",
+      "screenSize": "6.5 inch",
+      "camera": "62Px",
+      "battery": "5000MAH",
+      "quantity": 1
+    },
+    {
+      "id": 10,
+      "brand": "VIVO",
+      "price": "12999",
+      "color": "red",
+      "screenSize": "5 inch",
+      "camera": "12Px",
+      "battery": "5000MAH",
+      "quantity": 1
+    },
+    {
+      "id": 11,
+      "brand": "VIVO",
+      "price": "22999",
+      "color": "red",
+      "screenSize": "6 inch",
+      "camera": "52Px",
+      "battery": "5000MAH",
+      "quantity": 1
+    },
+    {
+      "id": 12,
+      "brand": "VIVO",
+      "price": "32999",
+      "color": "red",
+      "screenSize": "6.7 inch",
+      "camera": "82Px",
+      "battery": "5000MAH",
+      "quantity": 1
+    },
+    {
+      "id": 13,
+      "brand": "Apple",
+      "price": "32999",
+      "color": "red",
+      "screenSize": "5 inch",
+      "camera": "12Px",
+      "battery": "5000MAH",
+      "quantity": 1
+    },
+    {
+      "id": 14,
+      "brand": "Apple",
+      "price": "42999",
+      "color": "red",
+      "screenSize": "5.5 inch",
+      "camera": "12Px",
+      "battery": "5000MAH",
+      "quantity": 1
+    },
+    {
+      "id": 15,
+      "brand": "Apple",
+      "price": "62999",
+      "color": "Black",
+      "screenSize": "6.6 inch",
+      "camera": "12Px",
+      "battery": "5000MAH",
+      "quantity": 1
+    },
+    {
+      "id": 16,
+      "brand": "onePlus",
+      "price": "19999",
+      "color": "red",
+      "screenSize": "5.5 inch",
+      "camera": "12Px",
+      "battery": "5000MAH",
+      "quantity": 1
+    },
+    {
+      "id": 17,
+      "brand": "onePlus",
+      "price": "26999",
+      "color": "red",
+      "screenSize": "6.5 inch",
+      "camera": "12Px",
+      "battery": "5000MAH",
+      "quantity": 1
+    },
+    {
+      "id": 18,
+      "brand": "onePlus",
+      "price": "32999",
+      "color": "red",
+      "screenSize": "6.7 inch",
+      "camera": "32Px",
+      "battery": "5000MAH",
+      "quantity": 1
+    }
+  ],
+  "CartItem": []
+}
